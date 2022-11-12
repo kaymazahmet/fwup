@@ -2,6 +2,7 @@
 -Wireless Software Update-
 
 ENG
+
 This project is for remote ESP32 program change and update.
 
 You can upload to ESP32 on the same network without any cable connection.
@@ -20,6 +21,7 @@ When you install in this way, you will see your ESP32 as Network port in the por
 
 
 TR
+
 Bu proje uzaktan ESP32 programı değiştirmeye güncellemeye yarar.
 
 Hiçbir kablo bağlantısı yapmadan aynı ağ üzerinde ESP32'ye yükleme yapabilirsiniz.
