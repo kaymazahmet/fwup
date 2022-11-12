@@ -11,8 +11,10 @@ All you have to do is
 
 Entering 'const char*' type Wifi name and Password and then
 
-load();
+Load();
+
 Let();
+
 Active();
 
 invoking commands.
@@ -32,7 +34,9 @@ Tek yapmanız gereken
 'const char*' tipinde Wifi adı ve Şifresi girmek ve daha sonra
 
 Load();
+
 Let();
+
 Active();
 
 komutlarını çağırmak.
