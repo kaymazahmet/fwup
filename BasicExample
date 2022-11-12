@@ -1,0 +1,17 @@
+
+#include <_FW_UP.h>
+
+const char* Wifi_SSID = "WIFI ADI";
+const char* Wifi_Pass = "WIFI SIFRESI";
+
+_FW_UP fwu(Wifi_SSID , Wifi_Pass);
+
+void setup() {
+  fwu.Load();
+  fwu.Let();
+}
+
+void loop() {
+  fwu.Active();
+}
+
